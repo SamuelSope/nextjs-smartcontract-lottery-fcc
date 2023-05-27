@@ -1,0 +1,28 @@
+{
+  "name": "nextjs-smartcontract-lottery-fcc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@moralisweb3/next": "^2.19.0",
+    "@web3uikit/core": "^1.0.5",
+    "@web3uikit/icons": "^1.0.5",
+    "@web3uikit/web3": "^0.3.2",
+    "autoprefixer": "^10.4.14",
+    "moralis": "^2.19.0",
+    "moralis-v1": "^1.12.0",
+    "next": "^13.4.1",
+    "next-auth": "^4.22.1",
+    "postcss": "^8.4.23",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-moralis": "^1.4.2",
+    "tailwindcss": "^3.3.2",
+    "web3uikit": "^1.0.4"
+  }
+}
